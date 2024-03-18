@@ -68,7 +68,7 @@ The directory structure of the [data](./NaiveBayes/data-sentiment/) folder is gi
 	* [Positive.txt](./NaiveBayes/data-sentiment/test/Positive.txt) file contains 237 tweets with Positive Sentiment
 
 
-# Naive Bayes Classification (50 pts)
+# Naive Bayes Classification (40 pts)
 
 * You will implement Naive Bayes in this question. You are to amend your implementation into [`NaiveBayes.py`](./NaiveBayes/NaiveBayes.py). You have to first represent each sentence by a binary bag of word (BoW) vector. That is, a vector records if a unique word (e.g., "good") shows up in a sentence. See the `HW_3_How_To.pptx` slides for more details.
 
