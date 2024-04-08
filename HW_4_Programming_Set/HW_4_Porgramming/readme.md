@@ -61,7 +61,7 @@ We have provided slides for implementation details in [`HW-4.pptx`](./HW-4.pptx)
 
 
 
-# Logistic Regression (25 points)
+# Logistic Regression (30 points)
 
 Recall the logistic regression algorithm that we have discussed in class. Your task will be to implement logistic regression with gradient descent by completing the following sections in `Linear_Classifiers.py`. 
 
@@ -101,7 +101,7 @@ You will see your accuracy around
 
 
 
-# Perceptron (25 points)
+# Perceptron (30 points)
 
 Recall the perceptron algorithm that we have discussed in class. Your task will be to implement perceptron by completing the following sections in `Linear_Classifiers.py`. 
 
