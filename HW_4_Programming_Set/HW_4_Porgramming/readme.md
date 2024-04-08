@@ -21,7 +21,7 @@ Submit a .zip file named `HW4_programming_name_number.zip` (e.g., HW4_programmin
 
 * You will see a PPT file named `HW-4.pptx` and a PDF file named `HW-4.pdf`
 
-* Download the data `Starplus.npz` from Carmen (which is under `Files/Homework 4`) and put it in the same folder as `Linear_Classifiers.py`
+* Download the data `Starplus.npz` from Carmen (which is under `Files/HW4`) and put it in the same folder as `Linear_Classifiers.py`
 
 * Please use python3 and write your solutions from scratch. You may need NumPy.
 
